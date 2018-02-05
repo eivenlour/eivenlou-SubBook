@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">eivenlou-SubBook</string>
+    <string name="monthly_subscriptions">MONTHTLY SUBSCRIPTIONS</string>
+    <string name="add_subscription_button">ADD NEW SUBSCRIPTION</string>
+    <string name="add_subscription_title">ADD NEW SUBSCRIPTION</string>
+    <string name="final_add">ADD</string>
+    <string name="name_title">Name (up to 20 characters):</string>
+    <string name="date_title">Date started (YYYY-MM-DD):</string>
+    <string name="charge_title">Monthly charge (CAD):</string>
+    <string name="comment_title">Comment (up to 30 characters):</string>
+    <string name="date_started">YYYY-MM-DD</string>
+    <string name="monthly_charge">0.00</string>
+    <string name="comment">Say something...</string>
+    <string name="sub_name">Name</string>
+    <string name="total">0.00</string>
+    <string name="edit">EDIT SUBSCRIPTION</string>
+    <string name="delete">DELETE</string>
+    <string name="save_changes">SAVE CHANGES</string>
+</resources>
